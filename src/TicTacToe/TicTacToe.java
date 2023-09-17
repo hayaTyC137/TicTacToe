@@ -25,6 +25,7 @@ public class TicTacToe {
                 System.out.print(aChar + " | ");
             }
             System.out.println();
+            System.out.println("123");
         }
         System.out.println("-------------");
         }
