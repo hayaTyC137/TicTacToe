@@ -25,13 +25,11 @@ public class TicTacToe {
                 System.out.print(aChar + " | ");
             }
             System.out.println();
-            System.out.println("123");
-            System.out.println("125");
         }
         System.out.println("-------------");
-        }
+    }
 
-     void gameProgres(){
+    void gameProgres(){
         Scanner scanner = new Scanner(System.in);
         boolean isGameContinue = false;
 

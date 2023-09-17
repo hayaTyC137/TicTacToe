@@ -5,6 +5,7 @@ public class LaunchGame {
         TicTacToe TicTacToe = new TicTacToe();
         TicTacToe.createNewTicTacToe();
         TicTacToe.fillBoardCells();
+
         TicTacToe.renderBoard();
         TicTacToe.gameProgres();
     }
